@@ -1,6 +1,6 @@
 Set-up Procedure
 ================
-Should take about 10 minutes
+note: I have tried to leave all computers running but just switch off the monitors and close laptop lids. I did this by leaving the lights on in the room. As long as no one hit the switches off, you only need to plug in Jacob's Right Cheek, turn all monitors on, and open laptop lids and make sure sketches/tsps are still running and switch on Mike's dance piece. Instructions for hard reset of all pieces is below.
 
 #Cinema
 1.  Get ladder
@@ -21,7 +21,7 @@ Should take about 10 minutes
 4.  Keyboard is hidden above coin box behind flap
 5.  If RaspbPi is not already on, unplug and replug in power to it (above keyboard hidden area)
 6.  Once terminal comes up, do `cd /home/pi/Desktop` or press up twice (if saved)
-7.  Then `run sudo python WishBooth_v1a.py` or press up probably twice if saved
+7.  Then do `sudo python WishBooth_v1a.py` or press up probably twice if saved
 8.  WishBooth should be set up. Drop coin in to test.
 
 #Rob Spahr
